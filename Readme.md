@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/aditya-shri/DebugIt">
-    <img src="images/logo.png" alt="Logo" width="200" height="150">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">
