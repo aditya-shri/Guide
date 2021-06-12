@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/aditya-shri/DebugIt">
-    <img src="images/logo.png" alt="Logo" width="200" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="150">
   </a>
 
   <p align="center">
@@ -57,8 +57,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="images/logo.png" alt="Logo" width="200" height="80">
 
 Guide is a powerful Android app that helps disabled people reduce difficulty in their everyday life. It uses various AI models to help them. This android application uses all the basic android libraries in Java that are used to build an app. Its a resume project to showcase various android development capabilities like adding and handling various views, using intent to navigate through various screens, using file storage/access capabilty of android, using various apis like speech-to-text, MLKit for handling Ai models text-to-speech for "Guide"ing people; accessing hardware api to handle various hardware like camera, mic etc; showing notification, using pip mode etc.
 
