@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Guide is a powerful Android app that helps disabled people reduce difficulty in their everyday life. It uses various AI models to help them. This android application uses all the basic android libraries in Java that are used to build an app. Its a resume project to showcase various android development capabilities like adding and handling various views, using intent to navigate through various screens, using file storage/access capabilty of android, using various apis like speech-to-text, MLKit for handling Ai models text-to-speech for "Guide"ing people; accessing hardware api to handle various hardware like camera, mic etc; showing notification, using pip mode etc.
+Guide is a powerful Android app that helps disabled people reduce difficulty in their everyday life. It uses various AI models to help them. This android application uses all the basic android libraries in Java that are used to build an app. Its a resume project to showcase various android development capabilities like adding and handling various views, using intent to navigate through various screens, using file storage/access capabilty of android, using various apis like speech-to-text, MLKit for handling Ai models text-to-speech for "Guide"ing people; accessing hardware api to handle various hardware like CameraX for camera, Android inbuilt sdk for mic etc; showing notification, using pip mode etc.
 
 I have also used Python to custom train some models for specific usecase.
 
@@ -80,6 +80,7 @@ This section should list any major frameworks that you built your project using.
 * [Java](https://www.java.com/en/)
 * [Android](https://developer.android.com/)
 * [MLKit](https://developers.google.com/ml-kit)
+* [CameraX](https://developer.android.com/training/camerax)
 * [Python](https://www.python.org/)
 
 <!-- LICENSE -->
