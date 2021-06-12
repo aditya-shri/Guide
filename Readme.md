@@ -72,7 +72,7 @@ Of course, no product can be completly helpful since everyone needs may be diffe
 
 ### Note
 
-In order to avoid plagiarism, I have removed some files from the project directory. Without them , this app will not work. If you want to use the project for personal use, please <a href="#contact">Contact</a> me
+In order to avoid plagiarism, I have removed MainActivity, SpeechRecognitionActivity, all the models and some other files from the project directory. Without them , this app will not work. If you want to use the project for personal use, please <a href="#contact">Contact</a> me
 
 ### Built With
 
