@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guide</string>
+    <string name="ai_start">. . .</string>
+    <string name="image_description">Image</string>
+    <string name="pip">PiP</string>
+    <string name="Background">Go to background</string>
+    <string name="about_menu">About</string>
+    <string name="title_activity_noti">NotiActivity</string>
+    <string name="blindView">Blind</string>
+    <string name="deafView">Deaf</string>
+    <string name="dumbView">Dumb</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
