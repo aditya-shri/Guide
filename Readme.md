@@ -95,7 +95,7 @@ Distributed under the MIT License. See [License][license-url] for more informati
 
 Aditya Shrivastava - [@aditya-shri](https://www.linkedin.com/in/aditya-shri/) - mymail@adityashri.tk
 
-Project Link: [Debug-It](https://github.com/aditya-shri/Guide)
+Project Link: [Guide](https://github.com/aditya-shri/Guide)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
